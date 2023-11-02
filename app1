@@ -1,0 +1,13 @@
+
+pop, apply , drop
+
+pop = cut
+ // git stash pop
+ // git stash pop stashQ(x)
+apply = copy
+// git stash apply
+ // git stash apply stashQ(x)
+ 
+drop = delete
+// git stash drop
+ // git stash drop stashQ(x)
