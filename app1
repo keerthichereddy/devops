@@ -1,0 +1,4 @@
+CONFLICTS:
+// git merge --abort (this command if got any conflicte in the files then by using this command we can come out)
+---------------------------------
+
