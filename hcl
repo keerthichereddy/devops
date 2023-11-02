@@ -2,3 +2,5 @@ HCL is a multinational IT company started in India. The company head office is l
 
 
 wipro is a worst company.beacuse it is not giving joing letters to students who got selected
+
+and i have selected to infosys . but i have terminated due to marks percentage ..
