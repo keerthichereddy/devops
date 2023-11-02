@@ -1,4 +1,3 @@
-
 pop, apply , drop
 
 pop = cut
@@ -11,3 +10,6 @@ apply = copy
 drop = delete
 // git stash drop
  // git stash drop stashQ(x)
+
+CONFLICTS:
+// git merge --abort (this command if got any conflicte in the files then by using this command we can come out
