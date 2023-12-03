@@ -1,9 +1,0 @@
-STASH:
-
-// git stash list (this command will show list of stash)
-//git stash save "label" (this command will store the data in stash memory)
-// git stash show stashMemory (this command is used to check the file in stack memory)
-//git stash show -p stashmemory  ( show the content of data present inside the stash)
-
-CONFLICTS:
-// git merge --abort (this command if got any conflicte in the files then by using this command we can come out)
